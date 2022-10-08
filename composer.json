@@ -1,0 +1,25 @@
+{
+  "name": "pedrazzi/cotacoes-api",
+  "description": "API de Cotações em php",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Fábio Pedrazzi",
+      "email": "pedrazzi@hotmail.com"
+    }
+  ],
+  "keywords": [
+    "php",
+    "cotações",
+    "api",
+    "dolar",
+    "euro",
+    "moedas"
+  ],
+  "autoload": {
+    "psr-4": {
+      "Pedrazzi\\Cotacoes\\": "src/"
+    }
+  }
+}

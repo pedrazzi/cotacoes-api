@@ -46,3 +46,12 @@ $daily = $quote->daily('USD-BRL', 15);
 $sequencia = $quote->sequencia('USD-BRL', 10);
 
 ```
+### Legendas
+|    key    | Label  |
+|-----------|-------------------------|
+| bid       | Compra                  |
+| ask       | Venda                   |
+| varBid    | Variação                |
+| pctChange | Porcentagem de Variação |
+| high      | Máximo |
+| low       | Mínimo |
